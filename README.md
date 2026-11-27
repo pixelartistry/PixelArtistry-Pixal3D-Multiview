@@ -132,4 +132,4 @@ The workflow and scripts in this repo are MIT licensed (see [LICENSE](LICENSE)).
 
 ## Links
 
-[YouTube](https://www.youtube.com/@PixelArtistry_) · [Newsletter: FutureFrames](https://go.pixel-artistry.com/newsletter) · [Discord](https://go.pixel-artistry.com/discord) · [X](https://x.com/philippsieben)
+[YouTube](https://www.youtube.com/@PixelArtistry_) · [Newsletter: FutureFrames](https://pixel-artistry.com/newsletter) · [Discord](https://pixel-artistry.com/discord) · [X](https://x.com/philippsieben)
